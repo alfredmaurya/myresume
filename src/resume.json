@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Alfred Maurya Nemani",
+    "label": "Front End Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "alfredmaurya@gmail.com",
+    "phone": "9700681179",
+    "website": "",
+    "summary": "Over the past 2 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at TCS is Front End for a small React team and have been developing with React and Redux for the past 2 years.",
+    "location": {
+      "address": "Ganga Nagar",
+      "postalCode": "Vakalapudi",
+      "city": "Kakinada",
+      "countryCode": "India",
+      "region": "AP"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "alfredmaurya",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "alfredmaurya",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "TCS",
+      "position": "Front End Developer",
+      "website": "http://www.tcs.com",
+      "startDate": "2018-06-07",
+      "endDate": "",
+      "summary": "I am currently working as a front end developer on a small React team building Insurance applications and I am across multiple applications that have been built or are being built using our new development stack. IAG are keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various IAG systems. We are striving to increase the quality of our projects with good test coverage and code reviews and improving our continuous integration practices.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Pragati Engineering College",
+      "area": "Mechanical",
+      "studyType": "Bachelor.Tech ",
+      "startDate": "2011-07-01",
+      "endDate": "2015-04-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "Typescript",
+        "Meteor",
+        "React",
+        "Handlebars",
+        "SASS",
+        "LESS",
+        "Gulp",
+        "Grunt",
+        "Babel",
+        "Bootstrap",
+        "Semantic UI",
+        "Material css",
+        "Node",
+        "php",
+        "MySQL",
+        "Git",
+        "Jira",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
