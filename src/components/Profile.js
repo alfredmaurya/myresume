@@ -3,7 +3,7 @@ import React from 'react';
 const Profile = props => {
     const profileObj = props.profileData;
     return  <div>
-                  <div className="profileImg"><img role="presentation" className="img-circle center-block" src={profileObj.picture} width="200" /></div>
+                  <div className="profileImg"><img role="presentation" className="img-circle center-block" src="./profilePhoto.jpg" width="200" /></div>
                   <h1 className="text-center">{profileObj.name}</h1>
                   <h2 className="text-center">{profileObj.label}</h2>
                   <div className="divider"></div>
